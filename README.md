@@ -1,0 +1,2 @@
+# IoT-Powered-Automated-Irrigation-System
+The idea is to create a Smart Gardener System to control the soil moisture, light, temperature, air circulation, soil nutrients, and growing stage of the plant. In phase 1 of this project, temperature and humidity sensors are installed on the client Arduino board and their recordings will be communicated to server board where pump is connected. Server will receive the sensors' data from client board and controls the pump to satisfy a predefined condition. Server also communicates with a mobile application through local WiFi.
